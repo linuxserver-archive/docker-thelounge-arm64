@@ -96,4 +96,5 @@ To setup user account(s)
 
 ## Versions
 
++ **31.05.17:** Rebase to alpine 3.6.
 + **09.12.16:** Initial Release.
